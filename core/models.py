@@ -31,7 +31,7 @@ class LogEntry:
 
     @property
     def system_avatar_url(self):
-        return "https://discord.com/assets/" "f78426a064bc9dd24847519259bc42af.png"
+        return "/static/img/avatar_self.svg"
 
     @property
     def human_closed_at(self):
